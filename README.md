@@ -7,7 +7,7 @@ Project Summary Link: https://docs.google.com/document/d/1EtdYkcLCqzEVfNxn2QdR95
 
 Design Document Link: https://docs.google.com/document/d/1bJTzJCe3e7Hp0skgkv2gmbyCPqj6gTqiZ9EdDPuriZM/edit?usp=sharing
 
-Run Demo application on either a physical or virtual device
+Run Demo application on either a physical or virtual device uding Debug Build Config
 
 Domain: 
   Car Dealership Interface: Web API - Microsoft Azure Mock Datastore (in-memory) used for development Platform: Xamarin Forms - Android Backend: 
@@ -35,4 +35,3 @@ Domain:
 
 Test Devices: Moto G6
 
-Run Demo application on either a physical or virtual device uding Debug Build Config
