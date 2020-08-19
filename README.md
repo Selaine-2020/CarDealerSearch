@@ -3,9 +3,9 @@ Car dealership inventory search Xamarin.Forms project
 
 Car Dealership Xamarin.Forms Project
 
-Project Summary Link: https://docs.google.com/document/d/1EtdYkcLCqzEVfNxn2QdR95REZcDuF8JUMqmb4DXc1TE/edit#
+Project Summary Link: https://docs.google.com/document/d/1EtdYkcLCqzEVfNxn2QdR95REZcDuF8JUMqmb4DXc1TE/edit?usp=sharing
 
-Design Document Link: https://docs.google.com/document/d/1dPXrvSV1EJI4X38jbbkfCEO8V2D_JX9XpFTeAleUTTg/edit
+Design Document Link: https://docs.google.com/document/d/1bJTzJCe3e7Hp0skgkv2gmbyCPqj6gTqiZ9EdDPuriZM/edit?usp=sharing
 
 Run Demo application on either a physical or virtual device
 
